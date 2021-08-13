@@ -20,7 +20,9 @@ public class calculate {
             System.out.println("Not found");
         }
     }
-    
+    long payment(long p){
+        // hello github
+    }
     
 }
 
